@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Htl6wvcMFUY/nyg85lni/qNVeAIa42DZU2eeiKiWQtg8R5yzO6pIz1pTq/be9fNhWfaltp5cT7SPgNf25MfSQ==",
+  "success": true,
+  "projectFilePath": "/home/luis/Source/dsr/Csharp/AppConHilosATM/AppConHilosATM.csproj",
+  "expectedPackageFiles": [
+    "/home/luis/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

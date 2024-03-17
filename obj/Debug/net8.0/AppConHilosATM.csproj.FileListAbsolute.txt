@@ -1,0 +1,14 @@
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.AssemblyInfoInputs.cache
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.AssemblyInfo.cs
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.csproj.CoreCompileInputs.cache
+/home/luis/Source/dsr/Csharp/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM
+/home/luis/Source/dsr/Csharp/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.deps.json
+/home/luis/Source/dsr/Csharp/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.runtimeconfig.json
+/home/luis/Source/dsr/Csharp/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.dll
+/home/luis/Source/dsr/Csharp/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.pdb
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.dll
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/refint/AppConHilosATM.dll
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.pdb
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.genruntimeconfig.cache
+/home/luis/Source/dsr/Csharp/AppConHilosATM/obj/Debug/net8.0/ref/AppConHilosATM.dll
